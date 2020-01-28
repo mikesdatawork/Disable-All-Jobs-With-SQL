@@ -13,7 +13,7 @@
 - [License](#License)       
 
 ## About-Process    <div>
-Here's a quick you can use to disable all Jobs.
+  Disable all jobs with SQL.
 ---
 ## SQL-Logic
 ```SQL
